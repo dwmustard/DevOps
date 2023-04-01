@@ -5,7 +5,7 @@ on:
   pull_request:
   workflow_dispatch:
   
- jobs:
+jobs:
     myfirstjob:
         name: First job
         runs-on: ubuntu-latest
