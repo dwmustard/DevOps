@@ -16,6 +16,6 @@ jobs:
           run:  |
             touch newfile.yaml
             echo "Hello world" >> newfile.yaml
-            cat newfilw.yaml
+            cat newfile.yaml
             pwd
     
